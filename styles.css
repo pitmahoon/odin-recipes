@@ -1,0 +1,66 @@
+body {
+    background-color: beige;
+}
+
+.main_header {
+    background-color: aliceblue;
+    width: 300px;
+    font-family: Georgia, 'Times New Roman', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rec_link {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+    border-style: solid;
+    border-color: black;
+    width: 150px;
+    font-family: Georgia, 'Times New Roman', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+}
+
+.rec_header {
+    font-family: Georgia, 'Times New Roman', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.img_recipe {
+    display: block;
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.intro_text {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.rec_ingre {
+    display: block;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-bottom-style: dashed;
+    border-bottom: 2px;
+    border-color: black;
+}
